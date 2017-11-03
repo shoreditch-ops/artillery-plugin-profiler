@@ -1,6 +1,6 @@
-# Profiler for Minigun
+# Profiler for Artillery
 
-Minigun-profiler collects cpu and memory usage of your application running **locally**
+Artillery-profiler collects cpu and memory usage of your application running **locally**
 
 ## Usage
 
@@ -26,7 +26,7 @@ Enable the plugin by adding it in your test script's `config.plugins` section:
 
 ### Collected metrics
 
-In the JSON stats produced by `minigun`, below stats will be included.
+In the JSON stats produced by `artillery`, below stats will be included.
 
 ```javascript
 {
@@ -54,5 +54,5 @@ In the JSON stats produced by `minigun`, below stats will be included.
 
 ## License
 
-**minigun-plugin-profiler** is distributed under the terms of the
+**artillery-plugin-profiler** is distributed under the terms of the
 [MIT](https://opensource.org/licenses/MIT) license.
